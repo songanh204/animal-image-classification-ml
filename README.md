@@ -3,7 +3,7 @@
 ## Course Information
 
 - **Course name:** Machine Learning
-- **Course code:** [Fill course code]
+- **Course code:** CO3117
 - **Semester:** Semester I
 - **Academic year:** 2025–2026
 
