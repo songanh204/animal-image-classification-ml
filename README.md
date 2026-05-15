@@ -9,7 +9,7 @@
 
 ## Instructor Information
 
-- **Instructor:** TS. Lê Thành Sách
+- **Instructor:** TS. Lê Thành Sách, TS. Trương Vĩnh Lân
 - **University:** Ho Chi Minh City University of Technology, VNU-HCM
 - **Department:** Department of Computer Science
 
@@ -17,11 +17,11 @@
 
 | No. | Full Name | Student ID | Email |
 |---:|---|---|---|
-| 1 | [Fill full name] | [Fill student ID] | [Fill email] |
-| 2 | [Fill full name] | [Fill student ID] | [Fill email] |
-| 3 | [Fill full name] | [Fill student ID] | [Fill email] |
-| 4 | [Fill full name] | [Fill student ID] | [Fill email] |
-
+| 1 | [Vũ Song Anh] | [2252048] | [Fill email] |
+| 2 | [Đặng Trung Hiếu] | [2310940] | [Fill email] |
+| 3 | [Nguyễn Anh Tuyên] | [2353282] | [Fill email] |
+| 4 | [Nguyễn Anh Minh Tuệ] | [2353281] | [Fill email] |
+| 5 | [Bùi Thanh Tuyền] | [2353284] | [Fill email] |
 ## Project Objectives
 
 This project implements **Assignment 3: Machine Learning with Image Data**.  
